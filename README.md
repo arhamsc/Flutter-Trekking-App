@@ -1,4 +1,4 @@
-# travel_app_practice
+# Flutter Trekking App
 
 A new Flutter project.
 
